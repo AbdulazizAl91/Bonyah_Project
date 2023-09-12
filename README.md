@@ -1,4 +1,14 @@
 # Bonyah_Project
+Bonyah platform and showcase its benefits for construction service providers and product vendors.
+
+Bonyah offers a range of services that meet the needs of both construction service providers and product vendors, including:
+Searching for services and products
+Communicating with suppliers
+Project management
+
+Bonyah makes the construction process easier by providing access to a wide range of services and products from trusted suppliers.
+The platform helps to reduce costs and improve efficiency by providing access to more competitive bids and more efficient project management.
+Bonyah contributes to improving building quality by providing access to the latest technologies and practices.
 My work 
 1-service reposetory
 2- order reposetory
