@@ -1,8 +1,32 @@
 # Bonyah_Project
 My work 
-1-order
-2- requst
-3- testing
+1-service reposetory
+2- order reposetory
+3- customer serivce and controller:
+  -getMyCustomer
+  -updateCustomer
+  -deleteCustomer
+  -findProviderByName
+  -findProductByCategory
+  -findProductByPrice
+  -findProductByCategoryAndPrice
+  -findServicesByCategory
+  -findServicesByPrice
+  -findServicesByCategoryAndPrice
+  -getMyOrders
+  -sendOrder
+  -UpdateOrder
+  -deleteOrders
+  -getRequest
+  -sendRequest
+  -UpdateOrder
+  -UpdateRequest
+  -deleteOrders
+  -deleteRequest
+  4-test service
+  5-test reopsetory
+  6- test controller
+  
 
 class digram:
 <img width="781" alt="Screenshot 2023-09-11 205316" src="https://github.com/AbdulazizAl91/Bonyah_Project/assets/140315732/81a6d07a-5ec0-4b87-a8ca-172d1ac5b6ef">
