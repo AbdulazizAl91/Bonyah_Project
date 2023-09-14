@@ -10,9 +10,8 @@ Bonyah makes the construction process easier by providing access to a wide range
 The platform helps to reduce costs and improve efficiency by providing access to more competitive bids and more efficient project management.
 Bonyah contributes to improving building quality by providing access to the latest technologies and practices.
 My work 
-1-service reposetory
-2- order reposetory
-3- customer serivce and controller:
+
+1- customer serivce and controller:
   -getMyCustomer
   -updateCustomer
   -deleteCustomer
@@ -33,9 +32,11 @@ My work
   -UpdateRequest
   -deleteOrders
   -deleteRequest
-  4-test service
-  5-test reopsetory
-  6- test controller
+  2-test service
+  3-test reopsetory
+  4- test controller
+  5- Models:Customer,Orders,Request
+  6-Reposetory:Customer,Orders,Request
   
 
 class digram:
